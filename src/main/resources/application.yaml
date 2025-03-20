@@ -12,7 +12,7 @@ spring:
     password: 314914.fgz
   # session 失效时间（分钟）
   session:
-    timeout: 86400
+    timeout: 1000
     store-type: redis
   # redis 配置
   redis:
